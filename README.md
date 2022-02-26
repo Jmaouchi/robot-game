@@ -8,7 +8,9 @@ after all that, the player will be asked if he want to start playing again or no
 # built with
 
 1- HTML
+
 2- CSS 
+
 3- JavaScript
 
 # Contribution
